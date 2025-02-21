@@ -2,7 +2,7 @@
 
 ## Where does the Handlings Folder come from?
 
-It originally came from [Myleycyrusvirus](https://github.com/Myleycyrusvirus) [mcv-vehiclemetas](https://github.com/Myleycyrusvirus/mcv-vehiclemetas). I plan on adding missing vehicles from the latest Updates
+It originally came from [Myleycyrusvirus](https://github.com/Myleycyrusvirus) - [mcv-vehiclemetas](https://github.com/Myleycyrusvirus/mcv-vehiclemetas). I plan on adding missing vehicles from the latest Updates
 
 ## Where does the Tutorial come from?
 
