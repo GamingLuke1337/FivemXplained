@@ -1,4 +1,15 @@
-# GTA V Handling.meta Guide
+# Handling.meta
+
+## Where does the Handlings Folder come from?
+
+It originally came from [Myleycyrusvirus](https://github.com/Myleycyrusvirus) [mcv-vehiclemetas](https://github.com/Myleycyrusvirus/mcv-vehiclemetas). I plan on adding missing vehicles from the latest Updates
+
+## Where does the Tutorial come from?
+
+This tutorial was taken from the deleted GTA5mods forum thread (https://forums.gta5-mods.com/topic/3842/tutorial-handling-meta/). I reuploaded it and made improvements from my own experience. If anyone wants the original forum thread: https://forums.gta5-mods.com/topic/3842/tutorial-handling-meta.
+
+Special thanks to V4D3R for writing the original guide in the first place.
+
 
 ## What is the Handling.meta?
 
@@ -250,7 +261,3 @@ Attributes for trailers.
 This guide is a work in progress. If you have any insights or additional information about handling.meta, please contribute! 🚀
 
 **Happy modding!**
-
-This tutorial was taken from the deleted GTA5mods forum thread (https://forums.gta5-mods.com/topic/3842/tutorial-handling-meta/). I reuploaded it and made improvements from my own experience. If anyone wants the original forum thread: https://forums.gta5-mods.com/topic/3842/tutorial-handling-meta.
-
-Special thanks to V4D3R for writing the original guide in the first place.
